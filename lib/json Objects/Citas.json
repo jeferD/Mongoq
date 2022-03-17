@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233b31a501a2515623951e6"
+  },
+  "fechaCita": "27/3/2021",
+  "horaCita": "4:30",
+  "nombreDoctor": "Marcelo Guancha",
+  "tipoCita": "Medicina general"
+},{
+  "_id": {
+    "$oid": "6233b31a501a2515623951e7"
+  },
+  "fechaCita": "28/4/2021",
+  "horaCita": "6:30",
+  "nombreDoctor": "Marcelo Guancha",
+  "tipoCita": "Medicina general"
+},{
+  "_id": {
+    "$oid": "6233b31a501a2515623951e8"
+  },
+  "fechaCita": "28/4/2021",
+  "horaCita": "6:30",
+  "nombreDoctor": "Marcelo Guancha",
+  "tipoCita": "Medicina general"
+}]

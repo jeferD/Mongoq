@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233b904501a251562395202"
+  },
+  "nombreTratamiento": "Ortodoncia",
+  "fechaPago": "12 de diciembre 2020",
+  "medioPago": "Targeta de credito",
+  "Valor": "4.500"
+},{
+  "_id": {
+    "$oid": "6233b904501a251562395203"
+  },
+  "nombreTratamiento": "Caries",
+  "fechaPago": "14 de noviembre 2020",
+  "medioPago": "Efectivo",
+  "Valor": "4.500"
+},{
+  "_id": {
+    "$oid": "6233b904501a251562395204"
+  },
+  "nombreTratamiento": "Periodocia",
+  "fechaPago": "25 de enero 2021",
+  "medioPago": "Efectivo",
+  "Valor": "4.500"
+}]

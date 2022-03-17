@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233b58b501a2515623951ee"
+  },
+  "nombreDoctor": "Juan Hernesto",
+  "apellido": "Paz Moncayo",
+  "especialista": "Medicina general",
+  "telefono": "3145796448"
+},{
+  "_id": {
+    "$oid": "6233b58b501a2515623951ef"
+  },
+  "nombreDoctor": "Pablo Emilio",
+  "apellido": "Escobar Gaviria",
+  "especialista": "Medico pediatra",
+  "telefono": "3181544982"
+},{
+  "_id": {
+    "$oid": "6233b58b501a2515623951f0"
+  },
+  "nombreDoctor": "Alicia",
+  "apellido": "Martinez Benavides",
+  "especialista": "Odontologa",
+  "telefono": "3152249967"
+}]

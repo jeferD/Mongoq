@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6233b6ee501a2515623951f4"
+  },
+  "nombreServicio": "Odontologia"
+},{
+  "_id": {
+    "$oid": "6233b6ee501a2515623951f5"
+  },
+  "nombreServicio": "Medicina General"
+},{
+  "_id": {
+    "$oid": "6233b6ee501a2515623951f6"
+  },
+  "nombreServicio": "Pediatria"
+}]

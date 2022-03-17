@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233b80e501a2515623951fc"
+  },
+  "nombreMedicamento": "Acetaminofen",
+  "fechaIngraso": "27/2/2020",
+  "caducacion": "27/2/2022",
+  "indicaciones": "Una cada 8 horas"
+},{
+  "_id": {
+    "$oid": "6233b80e501a2515623951fd"
+  },
+  "nombreMedicamento": "Ibuprofeno",
+  "fechaIngraso": "27/6/2020",
+  "caducacion": "27/6/2022",
+  "indicaciones": "Una cada 8 horas"
+},{
+  "_id": {
+    "$oid": "6233b80e501a2515623951fe"
+  },
+  "nombreMedicamento": "Ciprofloxacino",
+  "fechaIngraso": "27/6/2020",
+  "caducacion": "27/6/2022",
+  "indicaciones": "Una cada 12 horas"
+}]

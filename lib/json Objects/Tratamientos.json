@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233ba20501a251562395208"
+  },
+  "nombreTratamiento": "Ortodoncia",
+  "fechaTratamiento": "12 de diciembre 2020",
+  "observaciones": "Ninguna"
+},{
+  "_id": {
+    "$oid": "6233ba20501a251562395209"
+  },
+  "nombreTratamiento": "Caries",
+  "fechaTratamiento": "14 de noviembre 2020",
+  "observaciones": "Ninguna"
+},{
+  "_id": {
+    "$oid": "6233ba20501a25156239520a"
+  },
+  "nombreTratamiento": "Periodoncia",
+  "fechaTratamiento": "25 de enero 2021",
+  "observaciones": "Ninguna"
+}]
